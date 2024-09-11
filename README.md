@@ -1,11 +1,12 @@
-# Yng-860.github.io
+# Oleksandr Tarkanovskyi 1TP
 
 <table>
 <tr>
   <th>Kolumna 1</th>
     <th>Kolumna 2</th>
     <th>Kolumna 3</th>
-  </tr>
+  <th>Kolumna4</th>
+</tr>
   <tr>
     <td>Komórka 1</td>
     <td>Komórka 2</td>
