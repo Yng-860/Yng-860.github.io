@@ -16,6 +16,7 @@
     <td>2.</td>
     <td>Komórka 5</td>
     <td>Komórka 6</td>
+  </tr>
   <td>3.</td>
     <td></td>
     <td></td>
