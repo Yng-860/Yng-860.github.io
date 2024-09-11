@@ -11,7 +11,7 @@
     <td>1.</td>
     <td>Pierwsza strona</td>
     <td></td>
-    <td></td>
+    <td>img src=</td>
   </tr>
   <tr>
     <td>2.</td>
