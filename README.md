@@ -5,7 +5,7 @@
   <th>Liczba porządkowa</th>
     <th>Nazwa projektu</th>
     <th>Miniaturka</th>
-  <th>11.09.2024</th>
+  <th>DATA</th>
 </tr>
   <tr>
     <td>1.</td>
