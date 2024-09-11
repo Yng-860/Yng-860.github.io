@@ -10,12 +10,12 @@
   <tr>
     <td>1.</td>
     <td>Pierwsza strona</td>
-    <td>Komórka 3</td>
+    <td></td>
   </tr>
   <tr>
     <td>2.</td>
-    <td>Komórka 5</td>
-    <td>Komórka 6</td>
+    <td></td>
+    <td></td>
   </tr>
   <td>3.</td>
     <td></td>
