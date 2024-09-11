@@ -10,8 +10,8 @@
   <tr>
     <td>1.</td>
     <td>Pierwsza strona</td>
-    <td></td>
     <td>img src=</td>
+    <td></td>
   </tr>
   <tr>
     <td>2.</td>
