@@ -30,7 +30,7 @@
     <table>
         <tr>
             <td rowspan="2">rowspan</td>
-            <td</td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
