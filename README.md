@@ -26,3 +26,29 @@
   <td></td>
   </tr>  
 </table>
+<table>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Prosta tabela z rowspan</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <td rowspan="2">Komórka z rowspan</td>
+            <td>Komórka 1</td>
+            <td>Komórka 2</td>
+        </tr>
+        <tr>
+            <td>Komórka 3</td>
+            <td>Komórka 4</td>
+        </tr>
+        <tr>
+            <td>Komórka 5</td>
+            <td>Komórka 6</td>
+            <td>Komórka 7</td>
+        </tr>
+    </table>
+</body>
+</html>
+
