@@ -29,18 +29,18 @@
 <html>
     <table border=1px>
         <tr>
-            <td rowspan="2">rowspan</td>
-            <td></td>
-            <td></td>
+            <td rowspan="2">Rowspan</td>
+            <td>Pierwsza strona</td>
+            <td>Komorka 2</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Komorka 3</td>
+            <td>Komorka 4</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Komorka 5</td>
+            <td>Komorka 6</td>
+            <td>Komorka 7</td>
         </tr>
     </table>
 </html>
