@@ -28,10 +28,7 @@
 </table>
 <!DOCTYPE html>
 <html lang="pl">
-<head>
     <meta charset="UTF-8">
-    <title>Prosta tabela z rowspan</title>
-</head>
 <body>
     <table border="1">
         <tr>
