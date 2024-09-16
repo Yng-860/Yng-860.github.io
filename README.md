@@ -27,20 +27,20 @@
   </tr>  
 </table>
 <html>
-    <table>
+    <table border=1px>
         <tr>
             <td rowspan="2">rowspan</td>
-            <td>5yrtyrrty</td>
-            <td>ryrtyrtrtyrt</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>rtyrtry</td>
-            <td>ryrtyrty</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>ryrtyrt</td>
-            <td>ryrtry</td>
-            <td>ryrtyrty</td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
     </table>
 </html>
