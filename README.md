@@ -26,8 +26,7 @@
   <td></td>
   </tr>  
 </table>
-<!DOCTYPE html>
-<html lang="pl">
+
     <meta charset="UTF-8">
 <body>
     <table border="1">
