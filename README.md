@@ -27,7 +27,7 @@
   </tr>  
 </table>
 <html>
-    <table border="1">
+    <table>
         <tr>
             <td rowspan="2">rowspan</td>
             <td</td>
