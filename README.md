@@ -30,7 +30,7 @@
     <table border=1px>
         <tr>
             <td rowspan="2">Rowspan</td>
-            <td>Pierwsza strona</td>
+            <td>Komorka 1</td>
             <td>Komorka 2</td>
         </tr>
         <tr>
