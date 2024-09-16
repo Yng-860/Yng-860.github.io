@@ -28,40 +28,43 @@
 </table>
 1
 <html>
-    <table border=1px>
+    <table border="1" cellpadding="10">
+        <!-- Pierwszy wiersz -->
         <tr>
-            <td rowspan="2">Rowspan</td>
-            <td>Komorka 1</td>
-            <td>Komorka 2</td>
+            <td rowspan="2">Połączona komórka (rowspan)</td>
+            <td>Komórka 2</td>
+            <td>Komórka 3</td>
         </tr>
+        <!-- Drugi wiersz -->
         <tr>
-            <td>Komorka 3</td>
-            <td>Komorka 4</td>
+            <td>Komórka 2</td>
+            <td>Komórka 3</td>
         </tr>
+        <!-- Trzeci wiersz -->
         <tr>
-            <td>Komorka 5</td>
-            <td>Komorka 6</td>
-            <td>Komorka 7</td>
+            <td>Komórka 1</td>
+            <td>Komórka 2</td>
+            <td>Komórka 3</td>
         </tr>
     </table>
 </html>
 2
 <html>
     <table border="1" cellpadding="10">
-        
+        <!-- Pierwszy wiersz -->
         <tr>
             <td>Komórka 1</td>
             <td>Komórka 2</td>
             <td>Komórka 3</td>
             <td>Komórka 4</td>
         </tr>
-        
-      <tr>
+        <!-- Drugi wiersz -->
+        <tr>
             <td>Komórka 1</td>
             <td colspan="2">Połączone komórki</td>
             <td>Komórka 4</td>
         </tr>
-        
+        <!-- Trzeci wiersz -->
         <tr>
             <td>Komórka 1</td>
             <td>Komórka 2</td>
@@ -70,28 +73,30 @@
         </tr>
     </table>
 
+</html>
+3
 <html>
     <table border="1" cellpadding="10">
-        
+        <!-- Pierwszy wiersz -->
         <tr>
             <td colspan="2">Połączone komórki</td>
             <td>Komórka 3</td>
             <td>Komórka 4</td>
         </tr>
-        
+        <!-- Drugi wiersz -->
         <tr>
             <td rowspan="2">Połączona komórka (rowspan)</td>
             <td>Komórka 2</td>
             <td>Komórka 3</td>
             <td>Komórka 4</td>
         </tr>
-        
+        <!-- Trzeci wiersz -->
         <tr>
             <td>Komórka 2</td>
             <td>Komórka 3</td>
             <td>Komórka 4</td>
         </tr>
-        
+        <!-- Czwarty wiersz -->
         <tr>
             <td>Komórka 1</td>
             <td>Komórka 2</td>
@@ -99,10 +104,6 @@
             <td>Komórka 4</td>
         </tr>
     </table>
-
-</body>
 </html>
 
 
-</body>
-</html>
