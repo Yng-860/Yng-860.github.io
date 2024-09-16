@@ -31,7 +31,7 @@
     <table border="1" cellpadding="10">
         <!-- Pierwszy wiersz -->
         <tr>
-            <td rowspan="2">Połączona komórka (rowspan)</td>
+            <td rowspan="2">Rowspan</td>
             <td>Komórka 2</td>
             <td>Komórka 3</td>
         </tr>
