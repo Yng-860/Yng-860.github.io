@@ -27,7 +27,6 @@
   </tr>  
 </table>
 
-    <meta charset="UTF-8">
 <body>
     <table border="1">
         <tr>
