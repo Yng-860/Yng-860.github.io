@@ -85,7 +85,7 @@
         </tr>
         <!-- Drugi wiersz -->
         <tr>
-            <td rowspan="2">Połączona komórka (rowspan)</td>
+            <td rowspan="2">Rowspan</td>
             <td>Komórka 2</td>
             <td>Komórka 3</td>
             <td>Komórka 4</td>
