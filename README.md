@@ -30,18 +30,18 @@
 <body>
     <table border="1">
         <tr>
-            <td rowspan="2">Komórka z rowspan</td>
-            <td>Komórka 1</td>
-            <td>Komórka 2</td>
+            <td rowspan="2">rowspan</td>
+            <td</td>
+            <td></td>
         </tr>
         <tr>
-            <td>Komórka 3</td>
-            <td>Komórka 4</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>Komórka 5</td>
-            <td>Komórka 6</td>
-            <td>Komórka 7</td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
     </table>
 </body>
