@@ -26,6 +26,7 @@
   <td></td>
   </tr>  
 </table>
+1
 <html>
     <table border=1px>
         <tr>
@@ -43,4 +44,31 @@
             <td>Komorka 7</td>
         </tr>
     </table>
+</html>
+
+<html>
+    <table border="1" cellpadding="10">
+        <!-- Pierwszy wiersz -->
+        <tr>
+            <td>Komórka 1</td>
+            <td>Komórka 2</td>
+            <td>Komórka 3</td>
+            <td>Komórka 4</td>
+        </tr>
+        <!-- Drugi wiersz -->
+        <tr>
+            <td>Komórka 1</td>
+            <td colspan="2">Połączone komórki</td>
+            <td>Komórka 4</td>
+        </tr>
+        <!-- Trzeci wiersz -->
+        <tr>
+            <td>Komórka 1</td>
+            <td>Komórka 2</td>
+            <td>Komórka 3</td>
+            <td>Komórka 4</td>
+        </tr>
+    </table>
+
+</body>
 </html>
