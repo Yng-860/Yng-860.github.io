@@ -27,7 +27,6 @@
   </tr>  
 </table>
 
-<body>
     <table border="1">
         <tr>
             <td rowspan="2">rowspan</td>
@@ -44,5 +43,4 @@
             <td></td>
         </tr>
     </table>
-</body>
 </html>
