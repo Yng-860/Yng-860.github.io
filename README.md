@@ -30,7 +30,7 @@
 
 1
 <html>
-    <table border=1px cellpadding="10">
+    <table cellpadding="10">
         <!-- Pierwszy wiersz -->
         <tr>
             <td rowspan="2">Rowspan</td>
@@ -52,7 +52,7 @@
 </html>
 2
 <html>
-    <table border=1px cellpadding="10">
+    <table cellpadding="10">
         <!-- Pierwszy wiersz -->
         <tr>
             <td>Komórka 1</td>
