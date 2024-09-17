@@ -78,7 +78,7 @@
 </html>
 3
 <html>
-    <table broder=1px cellpadding="10">
+    <table border=1px cellpadding="10">
         <!-- Pierwszy wiersz -->
         <tr>
             <td colspan="2">Połączone komórki</td>
