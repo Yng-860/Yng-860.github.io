@@ -1,5 +1,5 @@
 # Oleksandr Tarkanovskyi 1TP
-
+<html></html>
 <table border=1px>
 <tr>
   <th>Liczba porządkowa</th>
@@ -26,6 +26,7 @@
   <td></td>
   </tr>  
 </table>
+</html>
 1
 <html>
     <table border="1" cellpadding="10">
