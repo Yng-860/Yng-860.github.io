@@ -1,6 +1,6 @@
 # Oleksandr Tarkanovskyi 1TP
 <body>
-<table border=1px style=display:table>
+<table style=display:table>
 <tr>
   <th>Liczba porządkowa</th>
     <th>Nazwa projektu</th>
