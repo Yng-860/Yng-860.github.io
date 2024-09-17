@@ -1,5 +1,5 @@
 # Oleksandr Tarkanovskyi 1TP
-<html></html>
+<html>
 <table border=1px>
 <tr>
   <th>Liczba porządkowa</th>
