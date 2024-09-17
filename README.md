@@ -107,5 +107,18 @@
         </tr>
     </table>
 </html>
-
+<title>Umieszczanie stylów CSS</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Umieszczanie styli CSS</h1>
+    <table>
+        <tr>
+            <td><a href="body.html">1<br>body</a></td>
+            <td><a href="head.html">2<br>head</a></td>
+            <td><a href="external.html">3<br>zewnętrzny plik</a></td>
+        </tr>
+    </table>
+</body>
+</html>
 
