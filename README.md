@@ -121,4 +121,16 @@
     </table>
 </body>
 </html>
-
+</head>
+<body>
+    <h2>Umieszczanie stylów w &lt;body&gt;</h2>
+    <blockquote>
+        <code>
+        &lt;style&gt;<br>
+        body { background-color: lightblue; }<br>
+        &lt;/style&gt;
+        </code>
+    </blockquote>
+    <a href="index.html">Powrót do strony głównej</a>
+</body>
+</html>
