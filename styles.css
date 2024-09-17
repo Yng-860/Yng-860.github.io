@@ -2,3 +2,44 @@ table, tr ,td {
   border: 1px black solid;
   border-collapse: collapse;
 }
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 20px;
+    border: 1px solid black;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+blockquote {
+    background-color: #e0e0e0;
+    border-left: 5px solid #888;
+    margin: 20px auto;
+    padding: 10px;
+    width: fit-content;
+    font-style: italic;
+}
