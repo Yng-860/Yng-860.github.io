@@ -1,6 +1,6 @@
 # Oleksandr Tarkanovskyi 1TP
 <html>
-<table border=1px style=display:table>
+<table border=1px>
 <tr>
   <th>Liczba porządkowa</th>
     <th>Nazwa projektu</th>
@@ -30,7 +30,7 @@
 
 1
 <html>
-    <table  cellpadding="10">
+    <table border=1px cellpadding="10">
         <!-- Pierwszy wiersz -->
         <tr>
             <td rowspan="2">Rowspan</td>
@@ -52,7 +52,7 @@
 </html>
 2
 <html>
-    <table cellpadding="10">
+    <table border=1px cellpadding="10">
         <!-- Pierwszy wiersz -->
         <tr>
             <td>Komórka 1</td>
@@ -78,7 +78,7 @@
 </html>
 3
 <html>
-    <table cellpadding="10">
+    <table broder=1px cellpadding="10">
         <!-- Pierwszy wiersz -->
         <tr>
             <td colspan="2">Połączone komórki</td>
