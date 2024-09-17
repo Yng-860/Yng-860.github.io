@@ -1,6 +1,4 @@
 # Oleksandr Tarkanovskyi 1TP
-<body>
-  <head>
 <table border=1px style=display:table>
 <tr>
   <th>Liczba porządkowa</th>
@@ -27,8 +25,6 @@
   <td></td>
   </tr>  
 </table>
-  </head>
-</body>
 
 1
 <html>
